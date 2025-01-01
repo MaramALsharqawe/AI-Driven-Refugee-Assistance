@@ -82,9 +82,7 @@ To enhance accessibility, I created a simple **Streamlit-based user interface** 
 2. The voice is converted to text and categorized using the AI model.
 3. View the predicted category of the refugee's need.
 
-This makes it easy for anyone to interact with the model without needing coding experience.
 
-You can check out the video demonstrating the functionality of the **AI-driven Refugee Assistance System** on [this link](#) (insert the actual video link).
 
 #### Demo Video
 
